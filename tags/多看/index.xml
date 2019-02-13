@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>多看 on Reference</title>
+    <link>https://irischung.github.io/reference-publish/tags/%E5%A4%9A%E7%9C%8B/</link>
+    <description>Recent content in 多看 on Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 14 Jan 2019 11:40:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://irischung.github.io/reference-publish/tags/%E5%A4%9A%E7%9C%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Annotation</title>
+      <link>https://irischung.github.io/reference-publish/post/annotation/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/post/annotation/</guid>
+      <description> 參考-電子書 app : iBook, readmoo, google 圖書, 多看閱讀
+參考-有相關功能的其他 app : liner
+1. 選取文字 + 操作 選取文字後  彈出功能列
+多看 (操作：選字&amp;gt;劃線按鈕&amp;gt;紫色按鈕)
+ 直接highlight (預設使用者是要畫螢光筆)
+  功能列層級：預設使用者會希望先用哪些功能？ 限制：小尺寸螢幕一次只能顯示部分功能，哪些要排在最前面？
+ 螢光筆   2. Note style: 底色? 底線? 限制：深淺 theme 上的顏色與文字清晰度都要考慮到
+ ibook: 白底與灰底的螢光筆顏色調整
+  有無提示有筆記 &amp;amp; 形式  無筆記提示
+有筆記提示
+  ibook：便利貼
+ liner：前方顯示小泡泡
+  新增與移除筆記 編輯時需要知道筆記依附於哪段文字
+ google 圖書：card 形式，可移動
+  3. 列表 </description>
+    </item>
+    
+    <item>
+      <title>Bookmark</title>
+      <link>https://irischung.github.io/reference-publish/post/bookmark/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/post/bookmark/</guid>
+      <description>參考 app: google 圖書, 掌閱, readmoo, 多看, iBook-desktop, iBook-iPad, kindle, udn
+新增與移除書籤 手勢 比較常見的有兩種：
+1. 點擊右上角 google 圖書, readmoo, ibook, kindle, udn
+ google 圖書
+ udn
+  2. 由上往下滑的手勢 （類似 twitter 下拉刷新） 掌閱, 多看
+ 掌閱
+ 多看
+  toolbar 上的書籤按鈕 普遍都有此按鈕，但位置與形式略有不同：
+1. 和右上角書籤位置疊合 readmoo(iPad), iBook, udn
+ readmoo  2. 在 toolbar上，但位置沒有疊合 kindle（受限於toolbar顯示方式）
+3. 藏在 more 裡面 google 圖書, 掌閱, 多看
+ 掌閱  rwd 手機、平板、線上版的差異</description>
+    </item>
+    
+  </channel>
+</rss>

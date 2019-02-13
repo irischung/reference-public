@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Reference</title>
+    <link>https://irischung.github.io/reference-publish/tags/</link>
+    <description>Recent content in Tags on Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 14 Jan 2019 11:40:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://irischung.github.io/reference-publish/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google圖書</title>
+      <link>https://irischung.github.io/reference-publish/tags/google%E5%9C%96%E6%9B%B8/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/tags/google%E5%9C%96%E6%9B%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ibook</title>
+      <link>https://irischung.github.io/reference-publish/tags/ibook/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/tags/ibook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ibook Desktop</title>
+      <link>https://irischung.github.io/reference-publish/tags/ibook-desktop/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/tags/ibook-desktop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ibook Ipad</title>
+      <link>https://irischung.github.io/reference-publish/tags/ibook-ipad/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/tags/ibook-ipad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kindle</title>
+      <link>https://irischung.github.io/reference-publish/tags/kindle/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/tags/kindle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readmoo</title>
+      <link>https://irischung.github.io/reference-publish/tags/readmoo/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/tags/readmoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Udn</title>
+      <link>https://irischung.github.io/reference-publish/tags/udn/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/tags/udn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多看</title>
+      <link>https://irischung.github.io/reference-publish/tags/%E5%A4%9A%E7%9C%8B/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/tags/%E5%A4%9A%E7%9C%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>掌閱</title>
+      <link>https://irischung.github.io/reference-publish/tags/%E6%8E%8C%E9%96%B1/</link>
+      <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
+      
+      <guid>https://irischung.github.io/reference-publish/tags/%E6%8E%8C%E9%96%B1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
