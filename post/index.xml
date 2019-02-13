@@ -20,18 +20,17 @@
       <description> 參考-電子書 app : iBook, readmoo, google 圖書, 多看閱讀
 參考-有相關功能的其他 app : liner
 1. 選取文字 + 操作 選取文字後  彈出功能列
-多看 (操作：選字&amp;gt;劃線按鈕&amp;gt;紫色按鈕)
- 直接highlight (預設使用者是要畫螢光筆)
-  功能列層級：預設使用者會希望先用哪些功能？ 限制：小尺寸螢幕一次只能顯示部分功能，哪些要排在最前面？
- 螢光筆   2. Note style: 底色? 底線? 限制：深淺 theme 上的顏色與文字清晰度都要考慮到
+多看 (選字&amp;gt;劃線按鈕&amp;gt;紫色按鈕)
+ 直接 highlight (預設使用者是要畫螢光筆)、再次點擊 highlight 才會跳出功能列
+iReader ()
+  功能列順序：常用功能排前面？  待補
+ 2. Note style: 底色? 底線? 限制：深淺 theme 上的顏色與文字清晰度都要考慮到
  ibook: 白底與灰底的螢光筆顏色調整
-  有無提示有筆記 &amp;amp; 形式  無筆記提示
-有筆記提示
-  ibook：便利貼
+  有無提示有筆記 &amp;amp; 形式  ibook：便利貼
  liner：前方顯示小泡泡
   新增與移除筆記 編輯時需要知道筆記依附於哪段文字
  google 圖書：card 形式，可移動
-  3. 列表 </description>
+  </description>
     </item>
     
     <item>
@@ -52,7 +51,7 @@
 1. 和右上角書籤位置疊合 readmoo(iPad), iBook, udn
  readmoo  2. 在 toolbar上，但位置沒有疊合 kindle（受限於toolbar顯示方式）
 3. 藏在 more 裡面 google 圖書, 掌閱, 多看
- 掌閱  rwd 手機、平板、線上版的差異</description>
+ 掌閱  書籤列表 普遍都跟 toc 整合在一起。</description>
     </item>
     
   </channel>
