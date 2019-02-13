@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ibook on Reference</title>
-    <link>https://irischung.github.io/reference-publish/tags/ibook/</link>
+    <link>https://irischung.github.io/reference-public/tags/ibook/</link>
     <description>Recent content in Ibook on Reference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 14 Jan 2019 11:40:33 +0800</lastBuildDate>
     
-	<atom:link href="https://irischung.github.io/reference-publish/tags/ibook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://irischung.github.io/reference-public/tags/ibook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Annotation</title>
-      <link>https://irischung.github.io/reference-publish/post/annotation/</link>
+      <link>https://irischung.github.io/reference-public/post/annotation/</link>
       <pubDate>Mon, 14 Jan 2019 11:40:33 +0800</pubDate>
       
-      <guid>https://irischung.github.io/reference-publish/post/annotation/</guid>
+      <guid>https://irischung.github.io/reference-public/post/annotation/</guid>
       <description> 參考-電子書 app : iBook, readmoo, google 圖書, 多看閱讀
 參考-有相關功能的其他 app : liner
 1. 選取文字 + 操作 選取文字後  彈出功能列
